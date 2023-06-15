@@ -1,8 +1,8 @@
 +++
 title = "Das stille Leiden der weissen Riesen"
 date = "2023-06-15"
-draft = true
-pinned = true
+draft = false
+pinned = false
 +++
 *Unsere Gletscher ziehen sich immer mehr zurück. Ein erfahrener Bergführer, der seit vielen Jahrzehnten Zeuge des fortschreitenden Abschmelzens geworden ist, teilt seine beeindruckenden Erlebnisse.*
 
