@@ -46,7 +46,7 @@ Er sehe aber nicht nur Negatives, sondern auch Positives. Dort, wo der Gletscher
 
 ![Nach dem Rückzug des Moiry-Gletschers verbleiben die markanten Seitenmoränen. Dazwischen entsteht langsam ein neuer Lebensraum mit Seen und an ein Gletschervorfeld angepasster Vegetation. © Ch. Lüthi](abbildung-6.jpg)
 
-Nach dem Rückzug des Moiry-Gletschers verbleiben die markanten Seitenmoränen. Dazwischen entsteht langsam ein neuer Lebensraum mit Seen und an ein Gletschervorfeld angepasster Vegetation. © Ch. Lüthi
+
 
 Die Gletscher verschwinden zunehmend aus unseren Bergen. Faszinierend, gefährlich, wunderschön, märchenhaft. Es gibt viele Wörter, um sie zu beschreiben, aber wir müssen uns wohl damit abfinden, dass sie etwas ganz sicher nicht sind – nämlich ewig.
 
