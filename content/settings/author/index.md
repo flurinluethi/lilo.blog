@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "Flurin Lüthi"
+name = "Lars Allenbach&Flurin Lüthi"
 image = ""
-url = "/about/"
+url = "lars.allenbach@stud.gymininterlaken.ch/flurin.luethi@stud.gyminterlaken.ch"
 +++
