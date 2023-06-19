@@ -15,7 +15,7 @@ description = "Unsere Gletscher ziehen sich immer mehr zurück. Ein erfahrener B
 Gletscher entstehen an Orten, an denen Niederschlag als Schnee fällt. Bleibt dieser nun längere Zeit liegen und wird von immer mehr Neuschnee überdeckt, wird er zusammengepresst zu Altschnee. Wenn der Schnee länger als ein Jahr liegen bleibt, wird er als Firn oder Firnschnee bezeichnet. Er kristallisiert nach einiger Zeit und wird durch den immer höher werdenden Druck schliesslich zu Gletschereis. Beim Zusammenpressen entweicht die eingeschlossene Luft. Von anfangs 90 % im Neuschnee sind am Ende im Gletschereis nur noch 2 % vorhanden. Weil der Druck nicht beliebig gross werden kann, ist das Eis der tiefsten Schicht nicht vom Eis nahe der Gletscheroberfläche zu unterscheiden.              \
 Dieser Prozess wird vom Klimawandel in den meisten Fällen negativ beeinflusst. In seltenen Fällen können höhere Temperaturen das Gletschereiswachstum positiv beeinflussen: wenn Schnee schmilzt und die Temperatur schnell genug herunterkühlt, sodass das Wasser direkt zu Eis gefriert, ohne die verschiedenen Stufen der Umwandlung (Altschnee, Firnschnee) zu durchlaufen. Bedauerlicherweise ist dies zu selten der Fall. Denn wie ein Blick in die Statistik zeigt, verloren die Schweizer Gletscher in den letzten 166 Jahren die Hälfte ihrer Fläche und gar geschätzte 60% ihres Volumens. *(Quelle: https://interaktiv.tagesanzeiger.ch/2017/gletscherschwund/?openincontroller)*
 
-![](abbildung-2.png)
+![Dr. Jürg Meyer Bergführer und Geologe https://rundumberge.ch/](abbildung-2.png "Dr. Jürg Meyer Bergführer und Geologe https://rundumberge.ch/")
 
 Den fatalen Rückgang der Gletscher musste Jürg Meyer ein leidenschaftlicher Alpinist und Erzähler mit vielen Jahren Berufserfahrung selbst miterleben. Er verbindet spannende Geschichten mit Hintergrundwissen und Fakten. Jürg Meyer kam über den Klettersport zur Jugendorganisation (JO) des SAC (Schweizer Alpen-Club). Dort traf er auf Jugendliche mit der gleichen Begeisterung für den Alpinsport. Auf gemeinsamen Touren merkte er schnell, dass er auch gerne Touren leitet. Deshalb liess er sich zusätzlich zu einem Geologie-Studium zum Bergführer ausbilden.
 
@@ -47,8 +47,6 @@ Ein grosser Teil vom Wintersport ist eng mit Schnee und Gletschern verbunden. Vo
 Er sehe aber nicht nur Negatives, sondern auch Positives. Dort, wo der Gletscher einmal gewesen sei, entstünden sogenannte Gletschervorfelder. Diese seien aus botanischer und zoologischer Sicht sehr wertvolle und spannende Lebensräume. «Dort, wo der Gletscher zurückgeht, kommen geschliffene Felsen hervor, die für einen Geologen toll anzusehen sind. Ich hätte trotzdem lieber, wenn es anders wäre», schliesst Jürg seine Ausführungen.
 
 ![Nach dem Rückzug des Moiry-Gletschers verbleiben die markanten Seitenmoränen. Dazwischen entsteht langsam ein neuer Lebensraum mit Seen und an ein Gletschervorfeld angepasster Vegetation. © Ch. Lüthi](abbildung-6.jpg)
-
-
 
 Die Gletscher verschwinden zunehmend aus unseren Bergen. Faszinierend, gefährlich, wunderschön, märchenhaft. Es gibt viele Wörter, um sie zu beschreiben, aber wir müssen uns wohl damit abfinden, dass sie etwas ganz sicher nicht sind – nämlich ewig.
 
