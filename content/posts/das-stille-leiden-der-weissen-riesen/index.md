@@ -17,9 +17,9 @@ Dieser Prozess wird vom Klimawandel in den meisten Fällen negativ beeinflusst. 
 
 ![Dr. Jürg Meyer Bergführer und Geologe https://rundumberge.ch/](abbildung-2.png "Dr. Jürg Meyer Bergführer und Geologe https://rundumberge.ch/")
 
-Den fatalen Rückgang der Gletscher musste Jürg Meyer ein leidenschaftlicher Alpinist und Erzähler mit vielen Jahren Berufserfahrung selbst miterleben. Er verbindet spannende Geschichten mit Hintergrundwissen und Fakten. Jürg Meyer kam über den Klettersport zur Jugendorganisation (JO) des SAC (Schweizer Alpen-Club). Dort traf er auf Jugendliche mit der gleichen Begeisterung für den Alpinsport. Auf gemeinsamen Touren merkte er schnell, dass er auch gerne Touren leitet. Deshalb liess er sich zusätzlich zu einem Geologie-Studium zum Bergführer ausbilden.
+Den fatalen Rückgang der Gletscher musste Jürg Meyer, ein leidenschaftlicher Alpinist und Erzähler mit vielen Jahren Berufserfahrung, selbst miterleben. Er verbindet spannende Geschichten mit Hintergrundwissen und Fakten. Jürg Meyer kam über den Klettersport zur Jugendorganisation (JO) des SAC (Schweizer Alpen-Club). Dort traf er auf Jugendliche mit der gleichen Begeisterung für den Alpinsport. Auf gemeinsamen Touren merkte er schnell, dass er auch gerne Touren leitet. Deshalb liess er sich zusätzlich zu einem Geologie-Studium zum Bergführer ausbilden.
 
-Gefährliche Anziehungskraft
+#### Gefährliche Anziehungskraft
 
 Unterschiedliche Formen, Strukturen, Eisabbrüche mit Jahresschichtung und Spaltenmuster seien besonders schöne Dinge an einem Gletscher, schwärmt Jürg. «Faszinierend, weil sie einerseits diese Schönheit haben, andererseits Gefahren in sich bergen», beschreibt er seine Sicht auf die Gletscher. «Man muss sich mit den Gefahren auseinandersetzen, sich den Gefahren stellen, Nerven und Mut haben.» So lautet seine Devise, um mit den Gefahren umzugehen.       \
 Wenn man so oft wie Jürg auf Gletschern unterwegs ist, lässt sich der Kontakt mit Gletscherspalten nicht vermeiden. Es passiere ab und zu, dass man mit einem Bein kurz einsacke und dann zurückweiche. Ein bleibendes Erlebnis ist, als ein Gast über «die wahrscheinlich einzige Gletscherspalte auf dem ganzen Gletscher» fuhr und einsackte. Der Gast sei nach ca. sechs bis sieben Metern in der Spalte stecken geblieben, wobei er sich eine geprellte Hüfte zugezogen habe, ansonsten aber unverletzt davongekommen sei.
@@ -28,7 +28,7 @@ Teil der Schönheit eines Gletschers sind die nicht ungefährlichen Gletscherspa
 
 ![Entstehung der Gletscherspalten. Quelle: https://hohetauern.at/images/dateien/unterrichtsmaterialien/gletscher.pdf](abbildung-3.jpg)
 
-Gefährdete Schönheit
+#### Gefährdete Schönheit
 
 Gemäss Jürg sind alle Gletscher in den Alpen in den letzten 30 Jahren massiv zurückgegangen. «In den letzten 10 Jahren bin ich von Jahr zu Jahr mehr erschrocken, wie massiv, schnell und weit, dieser Gletscher zurückgegangen ist. Und was man auch beobachtet: Der Gletscher weicht nicht nur zurück, sondern er sackt auch in sich zusammen.» So beschreibt er die beobachteten Veränderungen am Morteratschgletscher im Berninagebiet (Graubünden) und den generellen Gletscherschwund.
 
@@ -38,7 +38,7 @@ Hell reflektiere, dunkel absorbiere. Sobald die schützende Schneedecke auf dem 
 
 ![Im Vordergrund gut erkennbar ist auf der Gletscheroberfläche abgelagertes dunkles Gesteinmaterial, welches Wärme aufnimmt und dadurch den Schmelzprozessbeschleunigt. Auch die Felsinsel im Abbruch am rechten oberen Bildrand führt zum selben Effekt. © Ch. Lüthi](abbildung-5.jpg)
 
-Herausforderung für den Bergtourismus
+#### Herausforderung für den Bergtourismus
 
 Ein grosser Teil vom Wintersport ist eng mit Schnee und Gletschern verbunden. Vom Gletscherrückgang ist der Berufsstand der Bergführer*innen besonders stark betroffen. Beispielsweise haben Grindelwaldner Bergführer im letzten Sommer beschlossen, die Jungfrau nicht mehr mit Gästen zu besteigen. Dies aufgrund der wegtauenden Eismassen, die immer mehr gefährlich brüchigen Fels zum Vorschein bringen. Aus Jürgs Sicht ist absolut klar: Für die Bergsteiger und Bergführer sei die Situation dramatisch. Er führt weiter aus: «Zunehmend werden klassische Hochtouren im Hochsommer nicht mehr begehbar. Während der Zeit, in der die meisten Touristen da sind.»
 
